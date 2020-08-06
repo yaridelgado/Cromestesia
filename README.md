@@ -7,4 +7,4 @@ Em resumo, o conceito do projeto foi fortemente inspirado pela descoberta do fen
 
 Como o tempo da disciplina era curto (de cerca de 4 ou 5 semanas de duração), o resultado visual ficou limitado a pinceladas artificiais e aleatórias, bem como a uma análise de som não tão precisa como o desejado. De todo jeito, o projeto é ainda embrionário, mas demonstra alguns dos interesses no campo das artes digitais.
 
-[**Vídeo demonstrativo do projeto em funcionamento**](https://drive.google.com/file/d/1p-B_8FlOVuQbnGeQnscOOkwn-Fn5py1Y/view?usp=sharing)
+O [**vídeo demonstrativo do projeto em funcionamento**](https://drive.google.com/file/d/1p-B_8FlOVuQbnGeQnscOOkwn-Fn5py1Y/view?usp=sharing) mostra o sistema reagindo a duas músicas sendo tocadas no computador (sem fones de ouvido conectados) e captadas pelo microfone. Note como as *pinceladas* tem ritmos e durações diferentes devido às diferenças entre as músicas.
